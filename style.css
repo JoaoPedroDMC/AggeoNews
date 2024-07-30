@@ -36,13 +36,28 @@ p{
     padding: 5px;
 }
 header{
-
+    position: fixed;
+    height: 100px;
+    width: 100px;
+    top: 0px;
+    left: 0px;
+    background-color: white;
 }
 nav{
-
+    position: fixed;
+    height: 100px;
+    width: 100px;
+    top: 10px;
+    left: 0px;
+    background-color: rgb(219, 219, 219);
 }
 footer{
-
+    position: fixed;
+    height: 100px;
+    width: 100px;
+    bottom: 0px;
+    left: 0px;
+    background-color: white;
 }
 .ar1p1{
 
