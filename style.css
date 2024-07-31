@@ -60,11 +60,31 @@ footer{
     background-color: white;
 }
 .ar1p1{
-
+    position: fixed;
+    height: 500px;
+    width: 1200px;
+    top: 70px;
+    left: 70px;
+    background-color: white;
 }
 .ar2p1{
-
+        position: fixed;
+        height: 1000px;
+        width: 1200px;
+        top: 600px;
+        left: 70px;
+        background-color: white;
 }
 .art1p2{
 
+}
+.lin1{
+    position: absolute;
+    top: 0px; 
+    left: 10px;
+}
+.lin2{
+    position: absolute; 
+    top: 0px; 
+    left: 60px;
 }
