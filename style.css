@@ -76,7 +76,9 @@ footer{
         background-color: white;
 }
 .art1p2{
-
+    position:fixed;
+    height: 1000px;
+    width: 1200px;
 }
 .lin1{
     position: absolute;
