@@ -79,6 +79,8 @@ footer{
     position:fixed;
     height: 1000px;
     width: 1200px;
+    top:600px;
+    left: 70px;
 }
 .lin1{
     position: absolute;
